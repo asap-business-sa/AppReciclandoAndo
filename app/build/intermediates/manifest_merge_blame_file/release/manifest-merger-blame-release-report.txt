@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.asapbusiness.reciclandoando"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:8:5-64
+14-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:8:22-62
+15
+16    <uses-feature
+16-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:11:5-84
+17        android:name="android.hardware.camera"
+17-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:11:19-57
+18        android:required="false" />
+18-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:11:58-82
+19    <uses-feature
+19-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:12:5-94
+20        android:name="android.hardware.camera.autofocus"
+20-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:12:19-67
+21        android:required="false" />
+21-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:12:68-92
+22    <uses-feature
+22-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:13:5-90
+23        android:name="android.hardware.camera.front"
+23-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:13:19-63
+24        android:required="false" />
+24-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:13:64-88
+25    <uses-feature
+25-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:14:5-100
+26        android:name="android.hardware.camera.front.autofocus"
+26-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:14:19-73
+27        android:required="false" />
+27-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:14:74-98
+28
+29    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+29-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:15:5-79
+29-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:15:22-77
+30    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+30-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:16:5-80
+30-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:16:22-78
+31
+32    <!-- Include required permissions for Google Maps API to run. -->
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+33-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+33-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+34
+35    <uses-feature
+35-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+36        android:glEsVersion="0x00020000"
+36-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+37        android:required="true" />
+37-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+38
+39    <application
+39-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:19:5-48:19
+40        android:allowBackup="true"
+40-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:20:9-35
+41        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+41-->[androidx.core:core:1.3.1] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\ff37b710ecf84191a2687617c776753e\core-1.3.1\AndroidManifest.xml:24:18-86
+42        android:icon="@mipmap/ic_launcher"
+42-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:21:9-43
+43        android:label="@string/app_name"
+43-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:22:9-41
+44        android:requestLegacyExternalStorage="true"
+44-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:23:9-52
+45        android:roundIcon="@mipmap/ic_launcher_round"
+45-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:24:9-54
+46        android:supportsRtl="true"
+46-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:25:9-35
+47        android:theme="@style/Theme.ReciclandoAndo"
+47-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:26:9-52
+48        android:usesCleartextTraffic="true" >
+48-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:27:9-44
+49        <activity
+49-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:28:9-29:63
+50            android:name="com.asapbusiness.reciclandoando.cameraActivity"
+50-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:28:19-49
+51            android:screenOrientation="landscape" >
+51-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:29:13-50
+52>
+53        </activity>
+54        <activity android:name="com.asapbusiness.reciclandoando.animAtivity" >
+54-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:30:9-36:20
+54-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:30:19-46
+55            <intent-filter>
+55-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:31:13-35:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:32:17-69
+56-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:32:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:34:17-77
+58-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:34:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity android:name="com.asapbusiness.reciclandoando.MapReciclador" />
+61-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:37:9-51
+61-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:37:19-48
+62        <activity android:name="com.asapbusiness.reciclandoando.Login" />
+62-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:38:9-43
+62-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:38:19-40
+63        <activity android:name="com.asapbusiness.reciclandoando.SignUp" />
+63-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:39:9-44
+63-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:39:19-41
+64        <activity android:name="com.asapbusiness.reciclandoando.MapDonador" />
+64-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:40:9-48
+64-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:40:19-45
+65
+66        <meta-data
+66-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:42:9-44:55
+67            android:name="com.google.android.geo.API_KEY"
+67-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:43:13-58
+68            android:value="@string/google_maps_key" />
+68-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:44:13-52
+69        <meta-data
+69-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:45:9-47:57
+70            android:name="preloaded_fonts"
+70-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:46:13-43
+71            android:resource="@array/preloaded_fonts" />
+71-->C:\Users\Michael\Desktop\ReciclandoAndo\ReciclandoAndo-master\app\src\main\AndroidManifest.xml:47:13-54
+72        <!-- Needs to be explicitly declared on P+ -->
+73        <uses-library
+73-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+74            android:name="org.apache.http.legacy"
+74-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+75            android:required="false" />
+75-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\d027d9448fbcf9654d950b23d8ed0e5d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+76
+77        <meta-data
+77-->[com.google.maps.android:android-maps-utils:0.6.2] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\2247779811eec0fe2faf90b6a1c708b7\jetified-android-maps-utils-0.6.2\AndroidManifest.xml:12:9-14:69
+78            android:name="com.google.android.gms.version"
+78-->[com.google.maps.android:android-maps-utils:0.6.2] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\2247779811eec0fe2faf90b6a1c708b7\jetified-android-maps-utils-0.6.2\AndroidManifest.xml:13:13-58
+79            android:value="@integer/google_play_services_version" />
+79-->[com.google.maps.android:android-maps-utils:0.6.2] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\2247779811eec0fe2faf90b6a1c708b7\jetified-android-maps-utils-0.6.2\AndroidManifest.xml:14:13-66
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\5f7c4660a06686e54dbe039880941d5c\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\5f7c4660a06686e54dbe039880941d5c\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\5f7c4660a06686e54dbe039880941d5c\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\Michael\.gradle\caches\transforms-2\files-2.1\5f7c4660a06686e54dbe039880941d5c\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+85    </application>
+86
+87</manifest>

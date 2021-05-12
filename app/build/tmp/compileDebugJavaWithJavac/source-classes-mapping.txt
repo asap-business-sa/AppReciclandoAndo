@@ -1,0 +1,31 @@
+com/asapbusiness/reciclandoando/animAtivity.java
+ com.asapbusiness.reciclandoando.animAtivity
+ com.asapbusiness.reciclandoando.animAtivity$1
+com/asapbusiness/reciclandoando/BuildConfig.java
+ com.asapbusiness.reciclandoando.BuildConfig
+com/asapbusiness/reciclandoando/SignUp.java
+ com.asapbusiness.reciclandoando.SignUp
+ com.asapbusiness.reciclandoando.SignUp$1
+ com.asapbusiness.reciclandoando.SignUp$2
+com/asapbusiness/reciclandoando/cameraActivity.java
+ com.asapbusiness.reciclandoando.cameraActivity
+ com.asapbusiness.reciclandoando.cameraActivity$1
+com/asapbusiness/reciclandoando/MapDonador.java
+ com.asapbusiness.reciclandoando.MapDonador
+ com.asapbusiness.reciclandoando.MapDonador$1
+ com.asapbusiness.reciclandoando.MapDonador$2
+ com.asapbusiness.reciclandoando.MapDonador$3
+ com.asapbusiness.reciclandoando.MapDonador$4
+ com.asapbusiness.reciclandoando.MapDonador$MyCountDownTimer
+com/asapbusiness/reciclandoando/GpsProvider.java
+ com.asapbusiness.reciclandoando.GpsProvider
+com/asapbusiness/reciclandoando/Login.java
+ com.asapbusiness.reciclandoando.Login
+ com.asapbusiness.reciclandoando.Login$1
+ com.asapbusiness.reciclandoando.Login$2
+com/asapbusiness/reciclandoando/MapReciclador.java
+ com.asapbusiness.reciclandoando.MapReciclador
+ com.asapbusiness.reciclandoando.MapReciclador$1
+ com.asapbusiness.reciclandoando.MapReciclador$2
+ com.asapbusiness.reciclandoando.MapReciclador$3
+ com.asapbusiness.reciclandoando.MapReciclador$MyCountDownTimer

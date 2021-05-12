@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_camera.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_name.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-mdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-hdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxxhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-mdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable_color_inicio.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable\\color_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxxhdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxhdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\layout_action_bar_toolbar.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\layout\\action_bar_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_anim_ativity.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\layout\\activity_anim_ativity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_camera.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_map_donador.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\layout\\activity_map_donador.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\menu_donador_menu.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\menu\\donador_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\font_alegreya_sc_bold_italic.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\font\\alegreya_sc_bold_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_markerdonador.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-mdpi\\markerdonador.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_markerdonador.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-hdpi\\markerdonador.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-mdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_camera.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xhdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-hdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_email.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_pass.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_name.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-hdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\menu_reciclador_menu.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\menu\\reciclador_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-mdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\font_poppinsmedium.ttf.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xhdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_map_reciclador.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\layout\\activity_map_reciclador.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-xxhdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\font_anton.xml.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\font\\anton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Michael\\Desktop\\ReciclandoAndo\\ReciclandoAndo-master\\app\\src\\main\\res\\drawable-hdpi\\logo_inicio.png"
+    }
+]

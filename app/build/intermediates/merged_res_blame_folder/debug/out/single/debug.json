@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pass.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pass.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\layout_action_bar_toolbar.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\layout\\action_bar_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_camera.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map_donador.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\layout\\activity_map_donador.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxxhdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_inicio.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable\\color_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-hdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-mdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-mdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_name.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pass.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xhdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxxhdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\menu_reciclador_menu.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\menu\\reciclador_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_email.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxhdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_name.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-hdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map_reciclador.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\layout\\activity_map_reciclador.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-hdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_markerdonador.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-mdpi\\markerdonador.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\menu_donador_menu.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\menu\\donador_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya_sc_bold_italic.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\font\\alegreya_sc_bold_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_anim_ativity.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\layout\\activity_anim_ativity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\font_poppinsmedium.ttf.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\font\\poppinsmedium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_markerdonador.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-hdpi\\markerdonador.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_camera.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxhdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxxhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xhdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-mdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_inicio.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-mdpi\\logo_inicio.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\font_anton.xml.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\font\\anton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_login_logo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cargobike.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-hdpi\\cargobike.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_name.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splashlogo.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\drawable-xxhdpi\\splashlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
