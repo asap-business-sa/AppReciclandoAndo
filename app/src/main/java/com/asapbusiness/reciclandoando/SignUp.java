@@ -18,7 +18,8 @@ import com.google.android.material.textfield.TextInputEditText;
 import com.vishnusivadas.advanced_httpurlconnection.PutData;
 
 
-public class SignUp extends AppCompatActivity {
+public class
+SignUp extends AppCompatActivity {
 
     TextInputEditText textInputEditTextFullname, textInputEditTextUsername, textInputEditTextPassword, textInputEditTextEmail;
     Button buttonSignup;
