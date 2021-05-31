@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Alexander\\.gradle\\caches\\transforms-2\\files-2.1\\de87d616bcaf975c5d13319ffe486016\\material-1.4.0-alpha02\\res\\values\\values.xml",
@@ -78,7 +78,77 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\values\\font_certs.xml",
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "18,2,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "973,100,826",
+                        "endLines": "20,14,17",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1099,821,968"
+                    },
+                    "to": {
+                        "startLines": "3578,3974,4151",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "238534,267491,280128",
+                        "endLines": "3580,3986,4153",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "238660,268210,280270"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,7,6,4,8,9,10,3,5,11,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "16,318,265,171,358,433,513,123,219,609,68",
+                        "endColumns": "51,39,52,47,74,79,95,47,45,37,54",
+                        "endOffsets": "63,353,313,214,428,508,604,166,260,642,118"
+                    },
+                    "to": {
+                        "startLines": "1128,1155,1160,1167,1168,1169,1225,1226,1233,1235,1236",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "69061,72390,72898,73469,73517,73592,82962,83058,83961,84078,84116",
+                        "endColumns": "51,39,52,47,74,79,95,47,45,37,54",
+                        "endOffsets": "69108,72425,72946,73512,73587,73667,83053,83101,84002,84111,84166"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,9,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "286,370,55,102,149,196,241,328",
+                        "endColumns": "41,47,46,46,46,44,44,41",
+                        "endOffsets": "323,413,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "439,452,537,538,539,550,551,554",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "24130,25062,30899,30946,30993,31737,31782,31948",
+                        "endColumns": "41,47,46,46,46,44,44,41",
+                        "endOffsets": "24167,25105,30941,30988,31035,31777,31822,31985"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "506",
+                        "startColumns": "4",
+                        "startOffsets": "28885",
+                        "endColumns": "56",
+                        "endOffsets": "28937"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\values\\font_certs.xml",
                     "from": {
                         "startLines": "2,6,11",
                         "startColumns": "4,4,4",
@@ -94,25 +164,6 @@
                         "endLines": "5,10,15",
                         "endColumns": "12,19,19",
                         "endOffsets": "347,2072,3662"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "203"
-                    },
-                    "to": {
-                        "startLines": "16",
-                        "startColumns": "4",
-                        "startOffsets": "3667",
-                        "endLines": "19",
-                        "endColumns": "12",
-                        "endOffsets": "3815"
                     }
                 },
                 {
@@ -132,61 +183,6 @@
                         "endLines": "42,448,449,450,451,635,636,637,1280,3238,3241,3244,6111",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "4851,24869,24931,24993,25057,37468,37525,37579,87169,215686,215812,215940,396000"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
-                    },
-                    "to": {
-                        "startLines": "506",
-                        "startColumns": "4",
-                        "startOffsets": "28885",
-                        "endColumns": "56",
-                        "endOffsets": "28937"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\values\\google_maps_api.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "13",
-                        "endOffsets": "202"
-                    },
-                    "to": {
-                        "startLines": "1161",
-                        "startColumns": "4",
-                        "startOffsets": "72951",
-                        "endLines": "1163",
-                        "endColumns": "13",
-                        "endOffsets": "73098"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\openCVLibrary345\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "9",
-                        "endColumns": "24",
-                        "endOffsets": "361"
-                    },
-                    "to": {
-                        "startLines": "6076",
-                        "startColumns": "4",
-                        "startOffsets": "393871",
-                        "endLines": "6083",
-                        "endColumns": "24",
-                        "endOffsets": "394177"
                     }
                 },
                 {
@@ -264,23 +260,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,9,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "286,370,55,102,149,196,241,328",
-                        "endColumns": "41,47,46,46,46,44,44,41",
-                        "endOffsets": "323,413,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "439,452,537,538,539,550,551,554",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "24130,25062,30899,30946,30993,31737,31782,31948",
-                        "endColumns": "41,47,46,46,46,44,44,41",
-                        "endOffsets": "24167,25105,30941,30988,31035,31777,31822,31985"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Alexander\\.gradle\\caches\\transforms-2\\files-2.1\\254a692456f89a4b6d8d6da5c57b7ed6\\jetified-android-maps-utils-2.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,7,10",
@@ -297,6 +276,44 @@
                         "endLines": "1013,5092,5095,5100",
                         "endColumns": "37,12,12,12",
                         "endOffsets": "62312,340428,340588,340840"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\values\\google_maps_api.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "13",
+                        "endOffsets": "202"
+                    },
+                    "to": {
+                        "startLines": "1161",
+                        "startColumns": "4",
+                        "startOffsets": "72951",
+                        "endLines": "1163",
+                        "endColumns": "13",
+                        "endOffsets": "73098"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\openCVLibrary345\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    },
+                    "to": {
+                        "startLines": "6076",
+                        "startColumns": "4",
+                        "startOffsets": "393871",
+                        "endLines": "6083",
+                        "endColumns": "24",
+                        "endOffsets": "394177"
                     }
                 },
                 {
@@ -319,22 +336,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\values\\themes.xml",
+                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\values\\preloaded_fonts.xml",
                     "from": {
-                        "startLines": "18,2,15",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "973,100,826",
-                        "endLines": "20,14,17",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "1099,821,968"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "203"
                     },
                     "to": {
-                        "startLines": "3578,3974,4151",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "238534,267491,280128",
-                        "endLines": "3580,3986,4153",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "238660,268210,280270"
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3667",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "3815"
                     }
                 },
                 {
@@ -392,23 +409,6 @@
                         "endLines": "20,26,28,36,37,43,49,64,65,66,67,72,73,74,75,83,91,93,100,105,106,111,116,117,118,123,124,129,130,135,136,137,143,144,145,150,155,156,166,170,171,172,173,176,177,180,183,184,185,186,187,190,193,194,195,196,201,204,207,208,209,214,215,216,219,222,223,226,229,232,235,236,237,240,243,244,249,250,255,258,261,262,263,264,265,266,267,268,269,270,285,326,327,328,329,337,338,339,342,347,358,363,382,391,398,399,405,406,407,408,417,421,1022,6447,6448,6449,6450,6550,6770,6779,6780,6781,6782,6783,6788,6789,6790,6791,7334,7335,7336,7342,7343,7349,7475,7487,7498,7765,7798,8349,8366,8367",
                         "endColumns": "56,11,60,11,51,47,50,51,60,61,45,11,51,49,50,11,11,44,58,11,56,11,11,53,56,11,57,11,55,11,56,50,11,51,54,11,11,49,55,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,55,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,50,48,47,57,11,46,59,11,11,45,46,51,11,11,54,11,45,54,44,11,11,40,4259,3645,143,4346,502,419,630,651,40,53,49,382,652,497,2917,345,231,139,35,129,133,35,35,231,126,105,483,35,302",
                         "endOffsets": "3872,4114,4224,4515,4567,4899,5209,5994,6055,6117,6163,6357,6409,6459,6510,6819,7131,7231,7656,7853,7910,8105,8286,8340,8397,8589,8647,8843,8899,9093,9150,9201,9423,9475,9530,9720,9896,9946,10474,10634,10695,10755,10825,10958,11026,11155,11281,11343,11408,11476,11543,11666,11791,11858,11923,11988,12169,12290,12411,12477,12544,12754,12823,12889,13014,13140,13207,13333,13460,13585,13712,13768,13833,13959,14082,14147,14355,14422,14602,14722,14842,14907,14969,15031,15093,15152,15212,15273,15334,15393,16044,18478,18527,18575,18633,18979,19026,19086,19192,19372,20002,20242,21353,21683,21966,22021,22283,22329,22384,22429,22770,22907,62709,417256,420902,421046,425393,431715,444459,445612,446264,446305,446359,446409,447031,447684,448182,451100,476209,476441,476581,477086,477216,477643,485311,486343,487092,500143,502152,533477,534599,534902"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,7,6,4,8,9,10,3,5,11,2",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "16,318,265,171,358,433,513,123,219,609,68",
-                        "endColumns": "51,39,52,47,74,79,95,47,45,37,54",
-                        "endOffsets": "63,353,313,214,428,508,604,166,260,642,118"
-                    },
-                    "to": {
-                        "startLines": "1128,1155,1160,1167,1168,1169,1225,1226,1233,1235,1236",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "69061,72390,72898,73469,73517,73592,82962,83058,83961,84078,84116",
-                        "endColumns": "51,39,52,47,74,79,95,47,45,37,54",
-                        "endOffsets": "69108,72425,72946,73512,73587,73667,83053,83101,84002,84111,84166"
                     }
                 }
             ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
+            "outputFile": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-et\\values-et.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Alexander\\.gradle\\caches\\transforms-2\\files-2.1\\39d1366e937049de89a2759e1098ab75\\jetified-play-services-basement-17.5.0\\res\\values-et\\values.xml",

@@ -1,4 +1,4 @@
-#Wed May 12 13:41:26 COT 2021
-base.0=C\:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed May 19 15:59:48 COT 2021
+base.0=C\:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

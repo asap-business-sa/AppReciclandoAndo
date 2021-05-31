@@ -13,7 +13,7 @@ import com.vishnusivadas.advanced_httpurlconnection.PutData;
 
 
 
-public class GpsProvider {
+public class 0GpsProvider {
 
     private GeoFire mGeoFire;
     private LatLng latLng;

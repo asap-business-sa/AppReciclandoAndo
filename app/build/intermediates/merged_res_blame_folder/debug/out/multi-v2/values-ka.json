@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Alexander\\Documents\\Pasantias\\ReciclandoAndo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+            "outputFile": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Alexander\\.gradle\\caches\\transforms-2\\files-2.1\\b234a824af7fd98a5c54fc0522824a91\\core-1.3.1\\res\\values-ka\\values-ka.xml",

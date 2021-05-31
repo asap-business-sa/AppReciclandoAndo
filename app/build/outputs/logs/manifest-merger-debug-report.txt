@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
 MERGED from [com.google.android.material:material:1.4.0-alpha02] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\de87d616bcaf975c5d13319ffe486016\material-1.4.0-alpha02\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\9570f34841c72a34d773388f89286f55\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.VishnuSivadasVS:Advanced-HttpURLConnection:1.2] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\c8932cb40f1161e2b796208b35101627\jetified-Advanced-HttpURLConnection-1.2\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\0cb9ff486f5edb59977e253831b932c8\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [:openCVLibrary345] C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\openCVLibrary345\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:openCVLibrary345] C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\openCVLibrary345\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\eae0a94023b7f14063b1b5f4717ce1ea\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.firebase:geofire-android:2.2.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\3bf82aa3d4aea375fb9c244ee802ca19\jetified-geofire-android-2.2.0\AndroidManifest.xml:1:1-5:12
@@ -47,25 +47,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Alexander\.gr
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\96d0ad977091c6484e2db42674538c87\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\9a82a1a22af6402c2242c9ee80e8919f\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\adf8d4ec58c98f5b37616cb4b06b74f4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
 	package
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:3:5-46
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.github.VishnuSivadasVS:Advanced-HttpURLConnection:1.2] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\c8932cb40f1161e2b796208b35101627\jetified-Advanced-HttpURLConnection-1.2\AndroidManifest.xml:11:5-67
 MERGED from [com.github.VishnuSivadasVS:Advanced-HttpURLConnection:1.2] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\c8932cb40f1161e2b796208b35101627\jetified-Advanced-HttpURLConnection-1.2\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
@@ -73,53 +73,53 @@ MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alexande
 MERGED from [com.firebase:geofire-android:2.2.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\3bf82aa3d4aea375fb9c244ee802ca19\jetified-geofire-android-2.2.0\AndroidManifest.xml:4:3-64
 MERGED from [com.firebase:geofire-android:2.2.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\3bf82aa3d4aea375fb9c244ee802ca19\jetified-geofire-android-2.2.0\AndroidManifest.xml:4:3-64
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:7:5-79
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:7:22-76
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:8:5-64
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:8:5-64
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:8:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:11:5-84
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:11:5-84
 	android:required
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:11:58-82
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:11:58-82
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:11:19-57
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:11:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:12:5-94
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:12:5-94
 	android:required
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:12:68-92
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:12:68-92
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:12:19-67
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:12:19-67
 uses-feature#android.hardware.camera.front
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:13:5-90
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:13:5-90
 	android:required
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:13:64-88
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:13:64-88
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:13:19-63
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:13:19-63
 uses-feature#android.hardware.camera.front.autofocus
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:14:5-100
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:14:5-100
 	android:required
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:14:74-98
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:14:74-98
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:14:19-73
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:14:19-73
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:15:5-79
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:15:22-77
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:15:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:16:5-80
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:16:5-80
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:16:22-78
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:16:22-78
 application
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:19:5-48:19
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:19:5-48:19
 MERGED from [com.google.android.material:material:1.4.0-alpha02] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\de87d616bcaf975c5d13319ffe486016\material-1.4.0-alpha02\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0-alpha02] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\de87d616bcaf975c5d13319ffe486016\material-1.4.0-alpha02\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\9570f34841c72a34d773388f89286f55\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -143,75 +143,75 @@ MERGED from [androidx.core:core:1.3.1] C:\Users\Alexander\.gradle\caches\transfo
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\90ecde5404179819368e2359ab771b50\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\90ecde5404179819368e2359ab771b50\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:23:9-52
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:23:9-52
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:25:9-35
 	android:label
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:22:9-41
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:22:9-41
 	android:roundIcon
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:24:9-54
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:24:9-54
 	android:icon
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:21:9-43
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:20:9-35
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:26:9-52
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:26:9-52
 	android:usesCleartextTraffic
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:27:9-44
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:27:9-44
 activity#com.asapbusiness.reciclandoando.cameraActivity
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:28:9-29:63
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:28:9-29:63
 	android:screenOrientation
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:29:13-50
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:29:13-50
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:28:19-49
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:28:19-49
 activity#com.asapbusiness.reciclandoando.animAtivity
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:30:9-36:20
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:30:9-36:20
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:30:19-46
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:30:19-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:34:27-74
 activity#com.asapbusiness.reciclandoando.MapReciclador
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:37:9-51
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:37:9-51
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:37:19-48
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:37:19-48
 activity#com.asapbusiness.reciclandoando.Login
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:38:9-43
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:38:9-43
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:38:19-40
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:38:19-40
 activity#com.asapbusiness.reciclandoando.SignUp
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:39:9-44
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:39:9-44
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:39:19-41
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:39:19-41
 activity#com.asapbusiness.reciclandoando.MapDonador
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:40:9-48
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:40:9-48
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:40:19-45
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:40:19-45
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:42:9-44:55
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:42:9-44:55
 	android:value
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:44:13-52
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:44:13-52
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:43:13-58
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:43:13-58
 meta-data#preloaded_fonts
-ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:45:9-47:57
+ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:45:9-47:57
 	android:resource
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:47:13-54
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:47:13-54
 	android:name
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml:46:13-43
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml:46:13-43
 uses-sdk
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.4.0-alpha02] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\de87d616bcaf975c5d13319ffe486016\material-1.4.0-alpha02\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.4.0-alpha02] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\de87d616bcaf975c5d13319ffe486016\material-1.4.0-alpha02\AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\9570f34841c72a34d773388f89286f55\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
@@ -220,8 +220,8 @@ MERGED from [com.github.VishnuSivadasVS:Advanced-HttpURLConnection:1.2] C:\Users
 MERGED from [com.github.VishnuSivadasVS:Advanced-HttpURLConnection:1.2] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\c8932cb40f1161e2b796208b35101627\jetified-Advanced-HttpURLConnection-1.2\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\0cb9ff486f5edb59977e253831b932c8\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\0cb9ff486f5edb59977e253831b932c8\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [:openCVLibrary345] C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\openCVLibrary345\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:openCVLibrary345] C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\openCVLibrary345\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary345] C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\openCVLibrary345\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:openCVLibrary345] C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\openCVLibrary345\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\eae0a94023b7f14063b1b5f4717ce1ea\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
@@ -298,16 +298,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alexander\.gradle\c
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\9a82a1a22af6402c2242c9ee80e8919f\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\adf8d4ec58c98f5b37616cb4b06b74f4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\adf8d4ec58c98f5b37616cb4b06b74f4\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Alexander\Documents\Pasantias\ReciclandoAndo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alexander\Documents\Pasantias\AppReciclandoAndo\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Alexander\.gradle\caches\transforms-2\files-2.1\2d547673e05a0f4359ea410021e8e7c2\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
 	android:name
