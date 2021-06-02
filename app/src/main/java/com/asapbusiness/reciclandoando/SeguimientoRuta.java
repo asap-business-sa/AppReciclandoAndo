@@ -28,17 +28,15 @@ public class SeguimientoRuta extends AppCompatActivity{
 
     }
     fun trazabilidad(){
-        //registro generico, aun no se a subido archivo .php a cPanel
-        //PutData putData = new PutData("https://luisbustamante.tk/Consulta/Consulta.php", "POST", field, data);
+
+        PutData putData = new PutData("https://luisbustamante.tk/Consulta/Consulta.php", "POST", field, data);
+       val bd=putData.writableDataBase
+        val fila=bd.rawQuery(sql:"Select R.latitud,R.longitud, D.latitud, D.longitud from MapReciclador R INNER JOIN MapDonador D ON  R.id_MapReciclador = D.MapDonador where R.longitud = D.longitud",selectionArgs:null)
+        fila.moveToFirst()
         do{
             val registro= LayoutInflater.from(context: this).inflate(R.layout.ruta_reciclador, root: null, attachToRoot:false)
+
         }while(putData.moveToNext())
     }
-    //esto iria en el achivo Consulta.php
-    /*
-        Select R.latitud,R.longitud,
-               D.latitud, D.longitud
-        from MapReciclador R INNER JOIN MapDonador D ON  R.id_MapReciclador = D.MapDonador
-        where R.longitud = D.longitud
-    */
+
 }
