@@ -7,49 +7,51 @@
     tools:context=".SeguimientoRuta">
 
     <TableLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/tlTabla"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="413dp"
+        android:layout_height="725dp"
         android:background="#E0E0E01"
         android:padding="5dp"
         android:stretchColumns="1"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.583"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.539">
 
     </TableLayout>
 
     <TableRow
-        android:layout_width="410dp"
-        android:layout_height="727dp"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="1dp" >
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
         <TextView
-            android:id="@+id/textView2"
-            android:layout_width="83dp"
+            android:id="@+id/tvreciclador"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight=".24"
             android:text="ID Reciclador" />
 
         <TextView
-            android:id="@+id/textView3"
-            android:layout_width="wrap_content"
+            android:id="@+id/tvlongitud"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight=".24"
             android:text="Longitud" />
 
         <TextView
-            android:id="@+id/textView4"
-            android:layout_width="wrap_content"
+            android:id="@+id/tvlatitud"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight=".24"
             android:text="Latitud" />
 
         <TextView
-            android:id="@+id/textView5"
-            android:layout_width="wrap_content"
+            android:id="@+id/tvdonador"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
+            android:layout_weight=".24"
             android:text="ID Donador" />
     </TableRow>
 
