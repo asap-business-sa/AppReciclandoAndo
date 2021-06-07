@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_name.png"
     },
     {
-        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera.png.flat",
-        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
-    },
-    {
         "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pass.png.flat",
         "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pass.png"
+    },
+    {
+        "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
     },
     {
         "merged": "C:\\Users\\Alexander\\Documents\\Pasantias\\AppReciclandoAndo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera.png.flat",

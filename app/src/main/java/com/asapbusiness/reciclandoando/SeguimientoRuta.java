@@ -17,15 +17,12 @@ public class SeguimientoRuta extends AppCompatActivity{
 
     TableLayout tlTabla;
 
-
     override fun onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.ruta_reciclador);
 
         tlTabla=findViewById(R.id.tlTabla);
         trazabilidad();
-
-
     }
     fun trazabilidad(){
         PutData putData = new PutData("https://luisbustamante.tk/Consulta/Consulta.php", "POST", field, data);
